@@ -1,0 +1,17 @@
+.btns {
+   cursor: pointer;
+   height: 30px;
+   border: 1px solid;
+   border-radius: 15px;
+}
+
+.select {
+   background-color: rgb(240, 240, 240);
+   width: 100%;
+   padding: 10px;
+}
+
+.selected-text {
+   margin: 15px;
+   font-size: 30px;
+}
